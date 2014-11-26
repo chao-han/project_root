@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-from .mongodblib import mongodb
+from .mongodb_lib import mongodb
 
